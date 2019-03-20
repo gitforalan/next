@@ -10,7 +10,6 @@
 		"stest": "next build && next export && http-server ./out"
 	},
 	"dependencies": {
-		"http-server": "^0.11.1",
 		"next": "^8.0.1",
 		"next-offline": "^3.3.6",
 		"next-page-transitions": "^1.0.0-alpha.6",
